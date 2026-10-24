@@ -41,7 +41,29 @@ Meus projetos e experimentos estão **em desenvolvimento**. Este espaço será a
 
 ## `05.` Conecte-se comigo
 
-[LinkedIn](https://www.linkedin.com/in/arthur-solis-6aa061398/) · [Instagram @arthus.op](https://www.instagram.com/arthus.op/) · [GitHub](https://github.com/arthur-solis)
+<div align="center">
+
+**Tecnologia, aprendizado e novas conexões.**
+
+<a href="https://www.linkedin.com/in/arthur-solis-6aa061398/">
+  <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Solis-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.instagram.com/arthus.op/">
+  <img src="https://img.shields.io/badge/Instagram-%40arthus.op-251447?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://github.com/arthur-solis">
+  <img src="https://img.shields.io/badge/GitHub-arthur--solis-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=arthur-solis&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square" alt="Profile Views"/>
+
+</div>
+
+<br/>
 
 <div align="center">
   <img width="100%" src="assets/footer.svg" alt="Aprendendo. Construindo. Evoluindo. — Arthur Solis Silva Ribeiro" />
