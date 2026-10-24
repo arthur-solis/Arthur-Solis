@@ -29,7 +29,11 @@ Aprendendo os fundamentos, experimentando ideias e evoluindo com a prática.
 
 Meus projetos e experimentos estão **em desenvolvimento**. Este espaço será atualizado conforme forem publicados, com suas descrições e tecnologias.
 
-[Explorar meus repositórios →](https://github.com/arthur-solis?tab=repositories)
+<div align="center">
+  <a href="https://github.com/arthur-solis?tab=repositories">
+    <img src="https://img.shields.io/badge/Explorar_meus_reposit%C3%B3rios-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus repositórios"/>
+  </a>
+</div>
 
 ## `04.` Uma contribuição de cada vez
 
