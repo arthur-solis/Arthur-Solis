@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title">
+<title id="title">Aprendendo. Construindo. Evoluindo. — Arthur Solis Silva Ribeiro</title>
+<defs><linearGradient id="bg"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#251447"/></linearGradient></defs>
+<rect width="1200" height="180" rx="20" fill="url(#bg)"/><path d="M64 28h1072" stroke="#8B5CF6" stroke-width="2"/>
+<g text-anchor="middle" font-family="Segoe UI,Arial,sans-serif"><text x="600" y="90" font-size="27" font-weight="600" fill="#C4B5FD">Aprendendo. Construindo. Evoluindo.</text><text x="600" y="129" font-size="16" fill="#B5ADCA">Arthur Solis Silva Ribeiro · Estudante de ADS</text></g>
+</svg>
