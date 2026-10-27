@@ -21,7 +21,7 @@ public class ArthurSolis {
 
 ## `02.` Tecnologias
 
-**Java** · **PHP** · **Tailwind CSS** · **MySQL**
+**Java** · **Tailwind CSS** · **MySQL**
 
 Aprendendo os fundamentos, experimentando ideias e evoluindo com a prática.
 
