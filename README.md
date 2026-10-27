@@ -14,7 +14,7 @@ public class ArthurSolis {
     String nome = "Arthur Solis Silva Ribeiro";
     String formacao = "Análise e Desenvolvimento de Sistemas";
     String momento = "Estudante";
-    String[] tecnologias = {"Java", "PHP", "Tailwind CSS", "MySQL"};
+    String[] tecnologias = {"Java" , "Tailwind CSS" , "MySQL"};
     String objetivo = "Aprender, construir e evoluir";
 }
 ```
